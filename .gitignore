@@ -34,3 +34,10 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+.idea
+venv
+www/*.pdf
+www/*.png
+www/hardcode/
+www/test.html
